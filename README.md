@@ -6,5 +6,5 @@ Requires two packages to run: pytube and tkinter. These can be installed within 
 Enjoy!
 
 # NOTES
-Desktop application building is in progress to remove the need to have prerequisite packages and python installed.
+Desktop application building is in progress to remove the need to have prerequisite packages and python installed. \n
 Cleaner UI may or may not come but is a consideration.
